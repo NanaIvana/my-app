@@ -1,5 +1,6 @@
 .App{
   justify-content: center;
   display: flex;
-  color: pink;
+  color: blue;
+  border-color: aqua;
 }
